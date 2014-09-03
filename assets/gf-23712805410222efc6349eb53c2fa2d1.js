@@ -1,0 +1,1 @@
+function formConfirmation(){$("#form-wrapper").html('<div id="form-confirmation"><h1>Message Received<i class="fa fa-check"></i></h1></div>')}
